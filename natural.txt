@@ -1,0 +1,9 @@
+crear un programa que muestre los asientos libres con una "L" y los asientos seleccionados 
+con una "X"
+1. En el inicio se deben mostrar libres
+2. No usar interfaz con html o css
+3. todo debe de ser logico sin frameworks o librerias
+
+paso 1 se sabe que son 10 asientos por cada fila y son 10 filas
+
+R// se crearia un arreglo de 10,10
